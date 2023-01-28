@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.android-small-2-child {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  background-color: rgba(172, 33, 195, 0.82);
+  width: 360px;
+  height: 103px;
+  mix-blend-mode: color-dodge;
+}
+.android-small-2-item {
+  position: absolute;
+  top: 20px;
+  left: 12px;
+  background-color: rgba(191, 11, 255, 0.97);
+  width: 219px;
+  height: 58px;
+}
+.android-small-2-inner {
+  position: absolute;
+  top: 128px;
+  left: 17px;
+  border-radius: 17px;
+  background-color: rgba(76, 144, 206, 0.29);
+  width: 333px;
+  height: 65px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 206px;
+  left: 245px;
+  border-radius: var(--br-md);
+  width: 104px;
+  height: 33px;
+}
+.uad {
+  position: absolute;
+  top: 208px;
+  left: 277px;
+}
+.android-small-2-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 206px;
+  left: 131px;
+  border-radius: var(--br-md);
+  width: 104px;
+  height: 33px;
+}
+.aud {
+  position: absolute;
+  top: 208px;
+  left: 163px;
+}
+.android-small-2-child2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #0e0e0e;
+  position: absolute;
+  top: 206px;
+  left: 17px;
+  border-radius: var(--br-md);
+  width: 104px;
+  height: 33px;
+  opacity: 0.75;
+}
+.usd {
+  position: absolute;
+  top: 208px;
+  left: 48px;
+}
+.dolloer-for-usa-1 {
+  position: absolute;
+  top: 274px;
+  left: 0;
+  width: 362px;
+  height: 216px;
+  opacity: 0.35;
+  mix-blend-mode: screen;
+}
+.rectangle-div {
+  position: absolute;
+  top: 296px;
+  left: 10px;
+  background-color: rgba(191, 11, 255, 0.9);
+  width: 145px;
+  height: 99px;
+}
+.inr {
+  position: absolute;
+  top: 300px;
+  left: 31px;
+  font-size: 64px;
+  color: #fff;
+  text-align: center;
+  opacity: 0.65;
+  mix-blend-mode: normal;
+}
+.android-small-2-child3 {
+  position: absolute;
+  top: 197px;
+  left: 0;
+  background-color: transparent;
+  width: 360px;
+  height: 49px;
+}
+.convert-your-currency {
+  position: absolute;
+  top: 135px;
+  left: 19px;
+  font-size: 32px;
+  font-family: var(--font-chewy);
+  color: rgba(14, 14, 14, 0.78);
+  display: inline-block;
+  width: 331px;
+  height: 51px;
+  mix-blend-mode: darken;
+}
+.vector-icon {
+  position: absolute;
+  height: 46.21%;
+  width: 79.17%;
+  top: 26.89%;
+  right: 10.42%;
+  bottom: 26.89%;
+  left: 10.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconsaxlinearhambergermenu {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 30px;
+  left: 314px;
+  width: 36px;
+  height: 33px;
+  overflow: hidden;
+}
+.android-small-2 {
+  position: relative;
+  background: linear-gradient(180deg, #0013c2, #6308c8 36.46%, #a300cc 56.25%);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gold);
+  font-family: var(--font-francois-one);
+}

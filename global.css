@@ -1,0 +1,15 @@
+:root {
+  /* fonts */
+  --font-chewy: Chewy;
+  --font-francois-one: "Francois One";
+
+  /* font sizes */
+  --font-size-base: 20px;
+
+  /* Colors */
+  --color-gray-100: rgba(0, 0, 0, 0.75);
+  --color-gold: rgba(248, 210, 11, 0.94);
+
+  /* border radiuses */
+  --br-md: 7px;
+}
